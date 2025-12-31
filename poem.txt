@@ -1,0 +1,22 @@
+Lines of Code
+
+In the quiet of the terminal's glow,
+Where logic flows and functions grow,
+A poem forms from bits and bytes,
+In the language that the machine knows.
+
+Variables dance in memory's space,
+Loops and conditions find their place,
+Each semicolon, each curly brace,
+Tells a story, sets the pace.
+
+From hello world to complex dreams,
+Code becomes more than it seems,
+A bridge between the mind and screen,
+Where human thought and machine meet.
+
+So here's a verse in plain text form,
+A simple file to keep you warm,
+A poem born from keyboard keys,
+In the repository, if you please.
+
